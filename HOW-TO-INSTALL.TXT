@@ -1,0 +1,49 @@
+
+
+	=================================
+	DPI 1.1 Final Installation Manual
+	=================================
+
+
+
+	1. Unzip the Package in some local folder
+
+	2. Upload all the files and folders except HOW-TO-INSTALL.TXT
+	
+	3. Within your FTP client that you used to upload files,
+	   change permissions of following files and folders:
+	   
+	   * USE CHMOD function and chmod to 777
+	   
+	   dpi_init.php                 (file)
+	   data                         (folder)
+	   graphic                      (folder)
+	   theme                        (folder)
+	   theme/default                (folder)
+	   theme/default/templates      (folder)
+	   
+	
+
+	   Assume you have uploaded to path http://www.yoursite.com
+
+	4. Launch Internet Explorer or FireFox, or any other web browser, and type
+	
+	   http://www.yoursite.com/install.php
+
+	   where "www.yoursite.com" is assumed as the path you uploaded contents to.
+	   
+	   Now follow in-screen instructions.
+	   
+	   
+
+	5. IMPORTANT: Once you are done with installation, and everything seems
+	   to be working just fine, make sure to delete "install.php".
+	   
+	   
+	   
+	At your service
+	Clixint Technologies International - www.clixint.com
+	
+	Support: support@image-host-script.com
+	
+	
