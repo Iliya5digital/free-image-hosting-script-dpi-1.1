@@ -1,0 +1,1 @@
+<h1>Uploading of new images has been disabled by site administrator<h1>
